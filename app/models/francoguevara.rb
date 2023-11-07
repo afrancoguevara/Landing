@@ -1,0 +1,2 @@
+class Francoguevara < ApplicationRecord
+end
